@@ -1,14 +1,29 @@
+name: Agricultura Urbana
+favicon: null
 layout_spectrum: 0.7297872
+typography_spectrum: 0.5610648
+title: Agricultura Urbana Ecuador
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3382979
-  lightness: 0.6344059
-  brandStrength: 0.4575316
   brandColors:
     - '#FFF2E9'
     - '#5579C3'
     - '#65584F'
     - '#A0C1EE'
     - '#9A8979'
+  brandStrength: 0.4575316
+  lightness: 0.6344059
+  saturation: 0.3382979
   rhythmicContrast: 0.3490903
-typography_spectrum: 0.5610648
-name: Agricultura Urbana
+purpose: []
