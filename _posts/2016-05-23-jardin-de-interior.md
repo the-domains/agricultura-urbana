@@ -13,8 +13,8 @@ description: >-
   16.6lb. Precio: $299.99) B.(Medidas: 121.92cm x 121.92cm x 203.2cm. Peso:
   30.4lb. Precio: $499.99) C.(Medidas: 248.92cm x 121.92cm x 203.2cm. Peso: 54b.
   Precio: $599.99)
-datePublished: '2016-07-07T22:52:36.593Z'
-dateModified: '2016-05-31T17:26:00.357Z'
+datePublished: '2016-07-07T23:07:16.359Z'
+dateModified: '2016-07-07T23:05:28.641Z'
 title: 'Jardin de Interior '
 author:
   - name: ''
@@ -30,4 +30,3 @@ _type: Blurb
 
 Un buen jardín empieza por los mejores closets de crecimiento de interior, alta calidad de materiales, mylar reflectivo en el interior y diseñado con cierres para ventilación, extractores e inductores de aire, totalmente completos. 3 Distintos tamaños A.(Medidas: 91.44cm x 50.8cm x 157.48cm. Peso: 16.6lb. Precio: $299.99) B.(Medidas: 121.92cm x 121.92cm x 203.2cm. Peso: 30.4lb. Precio: $499.99) C.(Medidas: 248.92cm x 121.92cm x 203.2cm. Peso: 54b. Precio: $599.99)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/949c6c3ad36ee6035190d0b8c1060c7544bff660.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/182078da-df6e-436f-8c32-216541efcbc1.jpg)
