@@ -1,17 +1,21 @@
 ---
-datePublished: '2016-05-31T17:21:37.409Z'
-sourcePath: _posts/2016-05-25-quienes-somos.md
 inFeed: false
-authors: []
 hasPage: true
-keywords: []
-author: []
-dateModified: '2016-05-31T16:47:52.113Z'
-title: Quienes somos
-publisher: null
-description: 'En Agricultura Urbana Ecuador, comprendemos las necesidades de mejorar nuestro planeta y la alimentación de los seres que habitan en ella. Creemos que este proceso debe ser lo más fácil y accesible posible para ayudar a asegurar la sostenibilidad continua de nuestro planeta.'
-inLanguage: null
 inNav: true
+inLanguage: null
+keywords: []
+description: >-
+  En Agricultura Urbana Ecuador, comprendemos las necesidades de mejorar nuestro
+  planeta y la alimentación de los seres que habitan en ella. Creemos que este
+  proceso debe ser lo más fácil y accesible posible para ayudar a asegurar la
+  sostenibilidad continua de nuestro planeta.
+datePublished: '2016-08-22T22:14:46.576Z'
+dateModified: '2016-05-31T17:21:44.673Z'
+sourcePath: _posts/2016-05-25-quienes-somos.md
+author: []
+title: Quienes somos
+authors: []
+publisher: null
 starred: false
 url: quienes-somos/index.html
 _type: WebPage
