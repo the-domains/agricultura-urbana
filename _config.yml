@@ -28,6 +28,9 @@ navigation:
   - name: Quienes somos
     id: 53a4d92f-2898-478a-8be8-010bc7c217ba
     type: content
+  - name: Contacto
+    id: 51dac73c-5cef-4783-86c3-e9aae5ec1d2f
+    type: content
 favicon: null
 title: Agricultura Urbana Ecuador
 purpose: []
